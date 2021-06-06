@@ -21,7 +21,7 @@ Using Joystick controls Alieron and Elevator, and seekBar's controling Ruuder an
 ├── model                 # TCP Client.
 ├── View                  # Views of the app.
 |   ├── JoyStick          # JoyStick settings.
-|   ├── JoyStickActivity	# Internal model view from the joystick to the model and view.
+|   ├── JoyStickActivity  # Internal model view from the joystick to the model and view.
 ├── ModelView
 |   ├── MainActivity      # the main that conatin the model and all view's settings.
 

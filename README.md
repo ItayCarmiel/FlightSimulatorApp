@@ -35,4 +35,4 @@ Using Joystick controls Alieron and Elevator, and seekBar's controling Ruuder an
 6. Now you can control the plane.
 
 ## Additional Links
-- [Short instructional video about the project.](https://www.youtube.com/watch?v=Rtib_R_Ls4Y)
+- [Short instructional video about the project.](https://youtu.be/mb1i6xLsDH0)

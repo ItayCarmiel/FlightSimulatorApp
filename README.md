@@ -17,21 +17,14 @@ Using Joystick controls Alieron and Elevator, and seekBar's controling Ruuder an
 ## Folder Structure
 
 ```
-.Milestone_2
-├── client              # UI of the web application (View part of the MVC architecture)
-|   ├── public          # contain the public files such as the index.html, the main page.
-|   ├── src             # UI implementation folder.
-|   |   ├── api         # HTTP requests implemantation files.	
-|   |   ├── components	# The different UI componenets in the web app.
-|   |   |   ├──...      # The UI componenets implementations.
-|   |   ├── utils       # Holds helper logic files.
-├── Server
-|   ├── controller      # controller part of the MVC architecture.
-|   |   ├── anomaly     # implements the get http request for anomaly
-|   |   ├── model       # implements the get http for model 
-|   |   ├── models      # implements the get http for models
-|   ├── lib             # anomaly detection logic.
-|   ├── model           # the model part of the MVC architecture whice communicates with the data base.
+.flightSimulatorApp
+├── model                 # TCP Client.
+├── View                  # Views of the app.
+|   ├── JoyStick          # JoyStick settings.
+|   ├── JoyStickActivity	# Internal model view from the joystick to the model and view.
+├── ModelView
+|   ├── MainActivity      # the main that conatin the model and all view's settings.
+
 ```
 ## Compiling and running
 1. Clone/download this repo.

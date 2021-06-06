@@ -18,7 +18,7 @@ Using Joystick controls Alieron and Elevator, and seekBar's controling Ruuder an
 
 ```
 .flightSimulatorApp
-├── model                 # TCP Client.
+├── Model                 # TCP Client.
 ├── View                  # Views of the app.
 |   ├── JoyStick          # JoyStick settings.
 |   ├── JoyStickActivity  # Internal model view from the joystick to the model and view.

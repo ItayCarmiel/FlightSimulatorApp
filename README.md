@@ -11,6 +11,7 @@ The FlightSimulatorApp is an android app for Remote Control the flight that perf
 Using Joystick controls Alieron and Elevator, and seekBar's controling Ruuder and Thorttle.
 
 ![](ReadMePic/firsr activity.PNG)
+
 ![](ReadMePic/second activity.PNG)
 
 ## Folder Structure
